@@ -3,7 +3,6 @@
 import re
 from dataclasses import dataclass
 
-
 _EMAIL_RE = re.compile(r"^[^@\s]+@[^@\s]+\.[^@\s]+$")
 
 
