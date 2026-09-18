@@ -1,7 +1,5 @@
 """Input loading, cleaning, validation, and export."""
 
-from __future__ import annotations
-
 import csv
 from pathlib import Path
 
