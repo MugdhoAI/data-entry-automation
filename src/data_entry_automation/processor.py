@@ -5,7 +5,7 @@ from __future__ import annotations
 import csv
 from pathlib import Path
 
-from openpyxl import load_workbook, Workbook
+from openpyxl import Workbook, load_workbook
 
 from .validators import clean_value, normalize_email, normalize_phone, validate_record
 
