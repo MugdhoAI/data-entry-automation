@@ -7,7 +7,6 @@ from openpyxl import Workbook, load_workbook
 
 from .validators import clean_value, normalize_email, normalize_phone, validate_record
 
-
 REQUIRED_COLUMNS = ("name", "email", "phone")
 OPTIONAL_COLUMNS = ("company",)
 
