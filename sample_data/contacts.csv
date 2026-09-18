@@ -1,0 +1,5 @@
+name,email,phone,company
+Alice Rahman, Alice@Example.COM , +880 1712-345678, Example Ltd
+Bob Karim,bob@example.com,01712345679,Acme
+Missing Email,,+880 1812-987654,Example Ltd
+Invalid Email,bad-email,01812345678,Acme
